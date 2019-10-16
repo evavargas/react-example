@@ -1,3 +1,3 @@
-# react-q4ebee
+# react-peticion Ajax
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-q4ebee)
